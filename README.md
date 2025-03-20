@@ -74,10 +74,3 @@ int main() {
 ![Screenshot 2025-03-20 092648](https://github.com/user-attachments/assets/cf7cde6b-4e67-4ef8-9b41-17c88808d7f4)
 ## RESULT:
 Thus, the implementation of the Caesar cipher using the C language was successfully executed. 
-
-
-## OUTPUT :-
-![Screenshot 2025-03-20 092648](https://github.com/user-attachments/assets/1660010b-8b2e-43c9-935e-80a8ac5f6bd2)
-
-## RESULT
-
